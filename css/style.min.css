@@ -867,7 +867,7 @@ body {
   (max-width: 768px) and (min-resolution: 144dpi),
   (max-width: 768px) and (min-resolution: 1.5dppx) {
   .reservation {
-    background-image: url(../img/form-bg-mobile@2x.jpg);
+    background-image: url(./../img/form-bg-mobile@2x.jpg);
   }
 }
 @media (min-width: 1367px) {
